@@ -2,8 +2,8 @@
 
 
 
-- 🖋 I’m currently working on my own project
-- 📚 I’m currently learning new backend languages
+- 🖋 Working on my own project
+- 📚 Learning new backend languages
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nahid-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
