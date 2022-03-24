@@ -2,7 +2,7 @@
 
 
 
-- 🖋 I’m currently working on my own projet
+- 🖋 I’m currently working on my own project
 - 📚 I’m currently learning new backend languages
 
 <div style="display: inline_block"><br>
